@@ -9,7 +9,7 @@ It is intentionally not treated as a secret and must never be reused for a produ
 Current development configuration:
 
 - alias: `dmc-native-reader-test`
-- store/key password: `android`
+- store/key password: `*************
 - certificate SHA-256: `f483539463f89dd957a8f7c68a3bb75da17450163f2e8767b4c47d5f1899adac`
 
 If this development key is rotated, previously installed test APKs will require uninstall/reinstall unless Android signing-key migration is explicitly configured.
